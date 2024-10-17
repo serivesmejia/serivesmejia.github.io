@@ -1,16 +1,8 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: about me
+subtitle: running on coroutines and coffee
 ---
 
-My name is Inigo Montoya. I have the following qualities:
-
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+currently studying software engineering @ Universidad Tecmilenio in Mexico. might actually work on this page later.
+<br>or perhaps not.
